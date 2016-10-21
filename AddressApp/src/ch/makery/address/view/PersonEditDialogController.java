@@ -11,7 +11,7 @@ import ch.makery.address.util.DateUtil;
 /**
  * Dialog to edit details of a person.
  * 
- * @author Marco Jakob
+ * @author Marco Jakob 
  */
 public class PersonEditDialogController {
 

@@ -23,7 +23,7 @@ public class RootLayoutController {
     /**
      * Is called by the main application to give a reference back to itself.
      * 
-     * @param mainApp
+     * @param mainApp 
      */
     public void setMainApp(MainApp mainApp) {
         this.mainApp = mainApp;

@@ -275,7 +275,7 @@ public class MainApp extends Application {
     }
     
     /**
-     * Opens a dialog to show birthday statistics.
+     * Opens a dialog to show birthday statistics. 
      */
     public void showBirthdayStatistics() {
         try {

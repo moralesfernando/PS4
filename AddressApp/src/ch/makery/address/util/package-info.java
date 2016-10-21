@@ -5,4 +5,4 @@
  * @author moral
  *
  */
-package ch.makery.util;
+package ch.makery.address.util;

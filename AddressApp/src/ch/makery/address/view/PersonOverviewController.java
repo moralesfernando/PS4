@@ -8,7 +8,7 @@ import javafx.scene.control.TableColumn;
 import javafx.scene.control.TableView;
 import ch.makery.address.MainApp;
 import ch.makery.address.model.Person;
-import ch.makery.util.DateUtil;
+import ch.makery.address.util.DateUtil;
 
 
 public class PersonOverviewController {
